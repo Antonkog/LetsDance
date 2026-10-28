@@ -1,0 +1,4 @@
+export const MAX_SOURCE_VIDEO_BYTES = 200 * 1024 * 1024;
+export const MAX_SOURCE_VIDEO_MB = 200;
+export const MAX_VIDEO_DURATION_SECONDS = 60.5;
+export const POSE_ANALYSIS_MAX_DIMENSION = 720;
